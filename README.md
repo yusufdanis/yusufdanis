@@ -4,7 +4,7 @@
 
 </div>
 
-Hi there! I'm Yusuf, a engineer passionate about technology. I enjoy turning ideas into tangible solutions by building applications. I'm dedicated to improving my knowledge and skills in **Cloud Engineering** and **DevOps**.
+Hi there! I'm Yusuf, a fresh graduate Computer Engineer passionate about technology. I enjoy turning ideas into tangible solutions by building applications. I'm dedicated to improving my knowledge and skills in **Cloud Engineering** and **DevOps**.
 
 ### Some fun facts about me:
 - I like to take [**photos**](https://yusufdanis.com/captures).
